@@ -1,4 +1,4 @@
-# master (unreleased)
+# main (unreleased)
 
 ## v0.0.1
 
