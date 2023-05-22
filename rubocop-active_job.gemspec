@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Yauheni Dakuka"]
   spec.email = ["yauheni.dakuka@gmail.com"]
 
-  spec.summary = 'Rubocop for ActiveJob'
+  spec.summary = 'RuboCop for ActiveJob'
   spec.homepage = 'https://github.com/ydakuka/rubocop-active_job'
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.0"

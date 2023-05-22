@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Rubocop::ActiveJob do
+RSpec.describe RuboCop::ActiveJob do
   it "has a version number" do
-    expect(Rubocop::ActiveJob::VERSION).not_to be nil
+    expect(RuboCop::ActiveJob::VERSION).not_to be nil
   end
 
   it "does something useful" do
